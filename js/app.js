@@ -25,3 +25,7 @@ let userName = document.getElementById('user').value;
 let pass = document.getElementById('pass').value;
  console.log(userName);
 }
+
+let user = data ['userInfo'];
+let balancePoint= data['pointBalance'];
+
