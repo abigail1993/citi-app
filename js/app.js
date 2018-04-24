@@ -28,4 +28,3 @@ let pass = document.getElementById('pass').value;
 
 let user = data ['userInfo'];
 let balancePoint= data['pointBalance'];
-
